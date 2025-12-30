@@ -37,9 +37,17 @@ python agents/root_agent.py
 ## 📁 Structure
 
 ├── agents/# 5 agents.
+
+
 ├── tools/# Device monitoring tools.
+
+
 ├── evaluation/# Test framework.
+
+
 ├── deployment/# Vertex AI scripts.
+
+
 └── notebooks/# Demos.
 
 ## 🛠️ Tech Stack
